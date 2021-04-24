@@ -1,16 +1,21 @@
 # meals_app
 
-A new Flutter project.
+Flutter Meals App project. In this project, you can see the food of different countries, their recipes and how to cook them step by step.
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/76699815/115965652-d0811380-a532-11eb-84d4-ef3032a9030a.jpeg" width = "150">
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/76699815/115965653-d119aa00-a532-11eb-9a66-75d0e61d2e6b.jpeg" width = "150">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/76699815/115965654-d1b24080-a532-11eb-80fe-9d20241fb65d.jpeg" width = "150">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://user-images.githubusercontent.com/76699815/115965655-d1b24080-a532-11eb-86ba-aa0f87e04df7.jpeg" width = "150">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Features
+
+
+step by step explanation of the recipe
+
+Filter foods according to their characteristics
+
+Quickly view the dishes by adding them to the favorites section.
